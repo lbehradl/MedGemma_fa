@@ -1,4 +1,4 @@
-This folder contains scripts for fine-tuning Google’s MedGemma language model to improve its performance on Persian medical question-answering tasks.
+This folder contains ipynb file for fine-tuning Google’s MedGemma language model to improve its performance on Persian medical question-answering tasks.
 
 ## Requirements
 
